@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Tooling
+.pytest_cache/
+
+# Local data and secrets (never commit)
+data/
+*.db
+*.sqlite3
+.env
